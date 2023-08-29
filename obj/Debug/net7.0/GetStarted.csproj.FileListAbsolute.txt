@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\bin\Debug\net7.0\GetStarted.exe
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\bin\Debug\net7.0\GetStarted.deps.json
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\bin\Debug\net7.0\GetStarted.runtimeconfig.json
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\bin\Debug\net7.0\GetStarted.dll
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\bin\Debug\net7.0\GetStarted.pdb
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\GetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\GetStarted.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\GetStarted.AssemblyInfo.cs
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\GetStarted.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\GetStarted.dll
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\refint\GetStarted.dll
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\GetStarted.pdb
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\GetStarted.genruntimeconfig.cache
+C:\Users\USER\Desktop\Workspace\C#\GetStarted\obj\Debug\net7.0\ref\GetStarted.dll
